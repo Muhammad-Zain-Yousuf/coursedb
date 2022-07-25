@@ -1,0 +1,99 @@
+[
+  {
+    "id": "python",
+    "title": "Python",
+    "desc": "Python For Beginners: Learn Python in 2.5 hours",
+    "picture": "Cards/python.jpg",
+    "url": "https://www.youtube.com/watch?v=rfscVS0vtbw&t=7s"
+  },
+
+  {
+    "id": "c++",
+    "title": "C++",
+    "desc": "C++ For Beginners: Learn C++ in 2.5 hours",
+    "picture": "Cards/cpp_logo.png",
+    "url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y"
+  },
+
+  {
+    "id": "javascript",
+    "title": "JavaScript",
+    "desc": "JavaScript For Beginners: Learn JavaScript in 2.5 hours",
+    "picture": "Cards/javascript.png",
+    "url": "https://www.youtube.com/watch?v=jS4aFq5-91M"
+  },
+
+  {
+    "id": "react",
+    "title": "React.js",
+    "desc": "React JS For Beginners: Learn React in 11 hours",
+    "picture": "Cards/react.png",
+    "url": "https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"
+  },
+
+  {
+    "id": "vue",
+    "title": "Vue.js",
+    "desc": "Vue JS For Beginners: Learn Vue in 2.5 hours",
+    "picture": "Cards/vue.png",
+    "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c"
+  },
+
+  
+  {
+    "id": "flutter",
+    "title": "Flutter",
+    "desc": "Flutter For Beginners: Learn Flutter in 37 hours",
+    "picture": "Cards/flutter.png",
+    "url": "https://www.youtube.com/watch?v=VPvVD8t02U8&t=53549s"
+  },
+
+  {
+    "id": "node",
+    "title": "Node.js",
+    "desc": "Node JS For Beginners: Learn Node in 2.5 hours",
+    "picture": "Cards/node.png",
+    "url": "https://www.youtube.com/watch?v=VI9TP-_7X1E&list=PLx6gGOAOEqGHqDaIjFhwnojD4Lhf4kU_N"
+  },
+
+  {
+    "id": "datascience",
+    "title": "Data Science",
+    "desc": "Data Science For Beginners: Learn Data Science in 2.5 hours",
+    "picture": "Cards/datascience.png",
+    "url": "https://www.youtube.com/watch?v=ua-CiDNNj30"
+  },
+
+  {
+    "id": "machinelearning",
+    "title": "Machine Learning",
+    "desc": "Machine Learning For Beginners: Learn Machine Learning in 2.5 hours",
+    "picture": "Cards/machine-learning.png",
+    "url": "https://www.youtube.com/watch?v=NWONeJKn6kc"
+  },
+
+  {
+    "id": "database",
+    "title": "Database",
+    "desc": "Database For Beginners: Learn Database in 2.5 hours",
+    "picture": "Cards/database.png",
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+  },
+
+  {
+    "id": "data-algo",
+    "title": "Data Structures and Algorithms",
+    "desc": "Learn Basic Data Structures and Algorithms in 2.5 hours",
+    "picture": "Cards/data-structure.jpg",
+    "url": "https://www.youtube.com/watch?v=8hly31xKli0"
+  },
+
+  {
+    "id": "html-css",
+    "title": "HTML & CSS",
+    "desc": "Learn HTML & CSS in 2.5 hours",
+    "picture": "Cards/html-css.png",
+    "url": "https://www.youtube.com/watch?v=G3e-cpL7ofc"
+  }
+
+]
